@@ -7,6 +7,7 @@
 # Get Started
 
 - Only a `proxy.js` or `pure-proxy.js` file is necessary.
+- Support dynamic IP: `http://localhost:8080/1992eea58760047d1d8e4e73242b1968`
 
 ## Install
 
